@@ -1,0 +1,37 @@
+# Blender 4.4.1 MTL File: 'rifle.blend'
+# www.blender.org
+
+newmtl Black_steel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/steel09_diffuse.jpg
+map_Ks C:/steel09_specular.jpg
+map_refl C:/steel09_metallic.jpg
+map_Bump -bm 1.000000 C:/steel09_normal_opengl.jpg
+
+newmtl Old_Gold.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl C:/METALLIC_Old gold.jpg
+map_Bump -bm 1.000000 C:/NORMAL_Old gold.jpg
+
+newmtl Wood.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/wood03_diffuse.jpg
+map_Ns C:/wood03_roughness.jpg
+map_Bump -bm 1.000000 C:/wood03_normal_opengl.jpg
