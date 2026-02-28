@@ -1,0 +1,52 @@
+# Blender 4.4.1 MTL File: 'house.blend'
+# www.blender.org
+
+newmtl Gravel
+Ka 0.200000 0.200000 0.200000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/gravel-16_diffuse.jpg
+map_Ns C:/gravel-16_smooth.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Roof
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/roof_19_Base_Color.jpg
+map_Ns C:/roof_19_Roughness.jpg
+
+newmtl Wood
+Ka 0.300000 0.300000 0.300000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -s 3 3 3 C:/wood-90_diffuse.jpg
+map_Ns -s 3 3 3 C:/wood-90_smooth.jpg
+
+newmtl Wood_Smooth_Faded_Birch
+Ns 1000.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
