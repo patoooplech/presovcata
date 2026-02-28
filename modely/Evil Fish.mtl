@@ -1,0 +1,43 @@
+# Blender 4.4.1 MTL File: 'Evil Fish.blend'
+# www.blender.org
+
+newmtl AR3DMat_PBR_Light_Cool_White
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/Koshiba/Desktop/projects/Game2/textures/LightCW_BaseColor.jpg
+map_Ns C:/Users/Koshiba/Desktop/projects/Game2/textures/LightCW_Roughness.jpg
+map_Ke C:/Users/Koshiba/Desktop/projects/Game2/textures/LightCW_Emission.jpg
+map_Bump -bm 1.000000 C:/Users/Koshiba/Desktop/projects/Game2/textures/LightCW_Normal.jpg
+
+newmtl Blood
+Ns 640.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.254152 0.000911 0.000911
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Skin
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.004813 0.009391
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Texture
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.013688 0.030562
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
